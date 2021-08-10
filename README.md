@@ -6,7 +6,5 @@ During my time at Davis, I taught computer architecture and computer science tea
 I was also an undergraduate and graduate peer adviser, advising university students of all types.
 Significant portions of my work for both roles are open-source and available here on GitHub.
 
-I am currently looking for full-time opportunities in all areas of tech.
 Feel free to [contact me](https://perona.dev/contact/) if you want to chat.
-
 Cheers!

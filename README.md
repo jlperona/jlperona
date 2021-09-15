@@ -1,5 +1,5 @@
 Hi!
-I am a computer scientist currently living in the San Francisco Bay Area.
+I am a computer scientist living in the Portland metro area, currently working at Intel as a DevOps engineer.
 I received my Master's degree in Computer Science (2019) and my Bachelor's degree in Computer Science & Engineering (2016), both from [UC Davis](https://cs.ucdavis.edu/).
 
 During my time at Davis, I taught computer architecture and computer science teaching pedagogy classes.
